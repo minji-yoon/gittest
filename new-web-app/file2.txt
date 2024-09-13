@@ -1,0 +1,3 @@
+This is file2 with another content.
+"Additional changes in file2."
+수정
